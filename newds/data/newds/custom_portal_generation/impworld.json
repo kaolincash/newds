@@ -1,7 +1,7 @@
 {
   "schema_version": "imm_ptl:v1",
   "from": [
-    "imm_ptl:any_dimension:any_dimension"
+    "imm_ptl:any_dimension"
   ],
   "to": "marchpane:impworld",
   "form": {
